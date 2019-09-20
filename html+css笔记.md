@@ -3,7 +3,7 @@
 ### git 配置
 
 - 配置信息列表
-
+  
            git  config --list
 
 - 设置用户名
